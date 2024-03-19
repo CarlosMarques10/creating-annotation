@@ -19,9 +19,12 @@
 *.tar.gz
 *.rar
 
+<<<<<<< HEAD
 *.classpath
 *.project
 
+=======
+>>>>>>> b9da79abaafd9459a7f44a2a172dec4ed2291e57
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
